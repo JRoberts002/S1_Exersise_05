@@ -67,7 +67,7 @@ section#rightColumn img {
     width: 100%;
 }
 
-section#rightColumn > nav.horizontalNavigation li {
+section#rightColumn>nav.horizontalNavigation li {
     width: 25%;
 }
 
@@ -84,12 +84,12 @@ footer::after {
     display: table;
 }
 
-footer > nav.verticalNavigation {
+footer>nav.verticalNavigation {
     float: left;
     width: 22%;
 }
 
-footer > section#contactInfo {
+footer>section#contactInfo {
     float: left;
     width: 34%;
 }
